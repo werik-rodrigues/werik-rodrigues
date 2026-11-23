@@ -61,9 +61,6 @@ Currently working with meteorological systems, scientific data processing, and a
 
 ### 🚀 Featured Projects
 
-🌦️ **ATMOSYNC**  
-Meteorological monitoring and analysis platform focused on integrating atmospheric data, weather products, and tools to support operational weather analysis and decision-making.
-
 🌬️ **Wind Ramp-Down Research**  
 Research on the identification, analysis, and prediction of abrupt wind speed decreases in wind farms, using meteorological observations, satellite data, numerical weather prediction, and machine learning.
 
